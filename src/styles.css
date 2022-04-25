@@ -1,0 +1,8 @@
+.list div {
+    opacity: 0;
+    transition: opacity 0.5s ease-out;
+}
+
+.list div.message {
+    opacity: 1;
+}
